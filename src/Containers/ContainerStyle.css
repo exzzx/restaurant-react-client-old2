@@ -1,0 +1,23 @@
+
+
+.nav-tabs {
+    overflow-x: auto;
+    overflow-y: auto;
+    display: -webkit-box;
+    display: -moz-box;
+
+}
+
+.nav-pills {
+    overflow-x: auto;
+    overflow-y: auto;
+    display: -webkit-box;
+    display: -moz-box;
+
+}
+
+
+
+
+
+

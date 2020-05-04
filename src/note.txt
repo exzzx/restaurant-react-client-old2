@@ -1,0 +1,4 @@
+When in centos, to use npm, run:
+eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
+
+Then use npm start.(npm is installed on brew)
